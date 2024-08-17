@@ -1,3 +1,26 @@
+Version 1.90.4
+--------------
+Released: 2024-04-08
+
+- Update the information for version 1.90.3.
+- Resolved high disk and CPU rate. (#256)
+- Update glib2 requirement to 2.66.0.
+- Stop guessing the unknown battery as a power supply.
+- Continue to support lid handling.
+- Fix org.freedesktop.UPower: EnergyRate is a positive value. (#252)
+- Fix uni-test python script. (!205)
+
+Version 1.90.3
+--------------
+Released: 2024-04-08
+
+- Resolved high disk and CPU rate. (#256)
+- Update glib2 requirement to 2.66.0.
+- Stop guessing the unknown battery as a power supply.
+- Continue to support lid handling.
+- Fix org.freedesktop.UPower: EnergyRate is a positive value. (#252)
+- Fix uni-test python script. (!205)
+
 Version 1.90.2
 --------------
 Released: 2023-07-06
